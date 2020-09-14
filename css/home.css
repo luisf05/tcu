@@ -342,7 +342,6 @@ body {
 .subscribe-text {
   margin-top: 10%;
   line-height: 25pt;
-  pointer-events: none;
   cursor: default;
 }
 
