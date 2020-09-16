@@ -1081,6 +1081,13 @@ body {
   color: #fff;
 }
 
+a, p.rights{
+  font-size: 12pt;
+  line-height: 12pt;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
 /* Responsive */
 
 /* 
@@ -4671,7 +4678,6 @@ body {
     line-height: 14pt;
     margin-bottom: 10%;
   }
-
   .footer-left a {
     font-family: nunito;
   }
@@ -4690,7 +4696,6 @@ body {
     font-family: barlow;
     color: #fff;
   }
-
   .btn-footer-nd {
     font-size: 14pt;
     color: #fff;
