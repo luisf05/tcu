@@ -931,6 +931,28 @@ body {
   margin-bottom: 5%;
 }
 
+.img-logo-rizoma {
+  display: block;
+  width: 22%;
+  height: auto;
+  margin-bottom: 5%;
+}
+
+.img-logo-ina {
+  display: block;
+  width: 25%;
+  height: auto;
+  margin-bottom: 5%;
+}
+
+.img-logo-ice {
+  display: block;
+  width: 15%;
+  height: auto;
+  margin-bottom: 5%;
+}
+
+
 .img-logo-mucho-gusto {
   display: block;
   width: 15%;
@@ -1165,6 +1187,20 @@ a, p.rights{
   .img-logo-melanny {
     width: 30%;
     height: 100%;
+  }
+  .img-logo-rizoma {
+    width: 22%;
+    margin-bottom: 5%;
+  }
+  
+  .img-logo-ina {
+    width: 25%;
+    margin-bottom: 5%;
+  }
+  
+  .img-logo-ice {
+    width: 15%;
+    margin-bottom: 5%;
   }
 
   .img-logo-mucho-gusto {
@@ -1548,7 +1584,20 @@ a, p.rights{
     width: 30%;
     height: 100%;
   }
-
+  .img-logo-rizoma {
+    width: 22%;
+    margin-bottom: 5%;
+  }
+  
+  .img-logo-ina {
+    width: 25%;
+    margin-bottom: 5%;
+  }
+  
+  .img-logo-ice {
+    width: 15%;
+    margin-bottom: 5%;
+  }
   .img-logo-mucho-gusto {
     width: 15%;
     height: 15%;
@@ -1971,7 +2020,20 @@ a, p.rights{
     width: 30%;
     height: 100%;
   }
-
+  .img-logo-rizoma {
+    width: 22%;
+    margin-bottom: 5%;
+  }
+  
+  .img-logo-ina {
+    width: 25%;
+    margin-bottom: 5%;
+  }
+  
+  .img-logo-ice {
+    width: 15%;
+    margin-bottom: 5%;
+  }
   .img-logo-mucho-gusto {
     width: 15%;
     height: 15%;
@@ -2454,6 +2516,21 @@ a, p.rights{
   .img-logo-melanny {
     width: 35%;
     height: 100%;
+  }
+
+  .img-logo-rizoma {
+    width: 24%;
+    margin-bottom: 5%;
+  }
+  
+  .img-logo-ina {
+    width: 26%;
+    margin-bottom: 5%;
+  }
+  
+  .img-logo-ice {
+    width: 17%;
+    margin-bottom: 5%;
   }
 
   .img-logo-mucho-gusto {
@@ -2953,6 +3030,20 @@ a, p.rights{
     width: 35%;
     height: 100%;
   }
+  .img-logo-rizoma {
+    width: 24%;
+    margin-bottom: 5%;
+  }
+  
+  .img-logo-ina {
+    width: 26%;
+    margin-bottom: 5%;
+  }
+  
+  .img-logo-ice {
+    width: 17%;
+    margin-bottom: 5%;
+  }
 
   .img-logo-mucho-gusto {
     width: 15%;
@@ -3398,6 +3489,20 @@ a, p.rights{
   .img-logo-melanny {
     width: 35%;
     height: 35%;
+  }
+  .img-logo-rizoma {
+    width: 24%;
+    margin-bottom: 5%;
+  }
+  
+  .img-logo-ina {
+    width: 26%;
+    margin-bottom: 5%;
+  }
+  
+  .img-logo-ice {
+    width: 17%;
+    margin-bottom: 5%;
   }
 
   .img-logo-mucho-gusto {
@@ -3934,6 +4039,21 @@ a, p.rights{
 
   .img-logo-melanny {
     width: 40%;
+    height: 100%;
+  }
+
+  .img-logo-rizoma {
+    width: 30%;
+    height: 100%;
+  }
+  
+  .img-logo-ina {
+    width: 35%;
+    height: 100%;
+  }
+  
+  .img-logo-ice {
+    width: 20%;
     height: 100%;
   }
 
@@ -4577,6 +4697,21 @@ a, p.rights{
 
   .img-logo-melanny {
     width: 50%;
+    height: 100%;
+  }
+
+  .img-logo-rizoma {
+    width: 30%;
+    height: 100%;
+  }
+  
+  .img-logo-ina {
+    width: 35%;
+    height: 100%;
+  }
+  
+  .img-logo-ice {
+    width: 20%;
     height: 100%;
   }
 
