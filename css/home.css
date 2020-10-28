@@ -341,8 +341,9 @@ body {
 
 .subscribe-text {
   margin-top: 10%;
-  line-height: 25pt;
+  line-height: 32pt;
   cursor: default;
+  text-align: center;
 }
 
 .title-subscribe {
@@ -510,7 +511,7 @@ body {
 .team-spekaers {
   padding: 0%;
   margin: 0%;
-  margin-bottom: 8%;
+  margin-bottom: 0%;
 }
 
 .title-speakers {
@@ -519,7 +520,7 @@ body {
   font-family: nunito;
   font-size: 50pt;
   line-height: 42pt;
-  margin-top: 5%;
+  margin-top: 15%;
   color: #470054;
   margin-bottom: 0%;
   padding-bottom: 0%;
@@ -768,7 +769,7 @@ body {
 
 .questions-area {
   padding-top: 0%;
-  padding-bottom: 4%;
+  padding-bottom:1%;
   text-align: center;
 }
 
@@ -844,7 +845,7 @@ body {
   text-transform: uppercase;
   text-align: center;
   font-family: nunito;
-  margin-top: 10%;
+  margin-top: 12%;
   font-size: 50pt;
   line-height: 50pt;
   margin-bottom: 0%;
@@ -1482,6 +1483,7 @@ a, p.rights{
 
   .schedule-area {
     background-color: #fff;
+    margin-bottom: 0%;
   }
 
   .schedule-img-container {
@@ -2745,7 +2747,7 @@ a, p.rights{
   .sub-title-subscribe {
     font-size: 30pt;
     color: #470054;
-    margin-left: 32%;
+    margin-left: 0%;
   }
 
   .subscribe-click{
@@ -3215,7 +3217,7 @@ a, p.rights{
 
   .subscribe-click{
     font-size: 16pt;
-    margin-left: 40%;
+    margin-left: 36%;
   }
 
 
@@ -3709,13 +3711,15 @@ a, p.rights{
   .title-subscribe {
     font-size: 20pt;
     color: #ec593d;
-    margin-left: 25%;
+    margin-left: 0px;
+    text-align: center;
   }
 
   .sub-title-subscribe {
     font-size: 20pt;
     color: #470054;
-    margin-left: 38%;
+    margin-left: 0px;
+    text-align: center;
   }
 
   .subscribe-click{
@@ -4349,12 +4353,13 @@ a, p.rights{
   a.sub-title-subscribe {
     font-size: 18pt;
     color: #470054;
-    margin-left: auto;
+    margin-left: none;
     white-space: pre-wrap;
   }
   
   .subscribe-click-container{
     margin-top: 0%;
+    text-align: center;
   }
   
   .subscribe-click{
